@@ -27,7 +27,7 @@
 ---
 
 ## 💼 Проекты  
-### [1. Бот для Telegram]((https://github.com/Sweetchecha/task_manager_bot))  
+### [1. Бот для Telegram](https://github.com/Sweetchecha/task_manager_bot)  
 Бот для управления задачами и автоматизации повседневных процессов, созданный с использованием Python-telegram-bot.  
 
 ### [2. Веб-приложение на Flask](https://github.com/sweetchecha/flask-web-app)  
